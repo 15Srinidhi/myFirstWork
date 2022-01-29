@@ -1,0 +1,2 @@
+# myFirstWork
+print("HELLO GIT")
